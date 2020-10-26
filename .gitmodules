@@ -1,0 +1,4 @@
+[submodule "strace/src/main/cpp/strace"]
+	path = strace/src/main/cpp/strace
+	url = https://github.com/HaidyCao/strace.git
+	branch = main
